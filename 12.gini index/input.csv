@@ -1,0 +1,15 @@
+Attribute1,Attribute2,Target
+Sunny,Hot,No
+Sunny,Hot,No
+Overcast,Hot,Yes
+Rainy,Mild,Yes
+Rainy,Cool,Yes
+Rainy,Cool,No
+Overcast,Cool,Yes
+Sunny,Mild,Yes
+Sunny,Cool,Yes
+Rainy,Mild,No
+Sunny,Mild,No
+Overcast,Mild,Yes
+Overcast,Hot,Yes
+Rainy,Mild,Yes

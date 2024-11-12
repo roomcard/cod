@@ -1,0 +1,9 @@
+Feature1,Feature2,Target
+1.0,2.0,ClassA
+1.5,1.5,ClassA
+2.0,1.0,ClassB
+2.5,1.5,ClassB
+3.0,2.0,ClassA
+3.5,2.5,ClassB
+4.0,3.0,ClassB
+4.5,3.5,ClassA
